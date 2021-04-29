@@ -1,0 +1,1 @@
+I'm pretty sure the object of the project is to just re-create the google homepage and use developer tools to do so.
